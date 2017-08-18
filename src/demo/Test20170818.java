@@ -9,6 +9,7 @@ public class Test20170818 {
 
 		System.out.println(new Date());
 		System.out.println("¹þ¹þ£¬³É¹¦À²");
+		System.out.println("ÐÞ¸Ä¡£¡£¡£");
 	}
 
 }
